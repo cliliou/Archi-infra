@@ -1,0 +1,28 @@
+{
+  "pins": [
+    {
+      "id": 1,
+      "name": "toto",
+      "longitude": 0.12345,
+      "latitude": 0.23456
+    },
+    {
+      "id": 2,
+      "name": "tata",
+      "longitude": 42.09876,
+      "latitude": 42.2345
+    },
+    {
+      "id": 3,
+      "name": "tutu",
+      "longitude": 4.678,
+      "latitude": 6.9768
+    },
+    {
+      "id": 4,
+      "name": "titi",
+      "longitude": 2.87789,
+      "latitude": 75.16516
+    }
+  ]
+}
